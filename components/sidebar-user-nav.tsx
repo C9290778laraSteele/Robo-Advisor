@@ -55,7 +55,7 @@ export function SidebarUserNav({ user }: { user: User }) {
               href="/"
               onClick={() => {
                 // Go to financialdatasets.ai
-                window.location.href = 'https://financialdatasets.ai';
+                window.location.href = 'https://github.com/C9290778laraSteele/Robo-Advisor';
               }}  
               className="flex flex-row gap-3 items-center"
             >
