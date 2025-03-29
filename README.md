@@ -1,10 +1,10 @@
 # Robo Advisor v0.1.0
 
-Robo Advisor is an innovative, AI-powered platform designed to transform the landscape of investment research. In this initial release, we lay a robust foundation that merges advanced machine learning techniques with intuitive financial analytics. Crafted as a learning and exploratory tool, Robo Advisor empowers users to dive deep into market data and financial trends, while setting the stage for an ever-expanding ecosystem of investment research features.
+Robo Advisor is an innovative, AI powered platform designed to transform the landscape of investment research. In this initial release, we lay a robust foundation that merges advanced machine learning techniques with intuitive financial analytics. Crafted as a learning and exploratory tool, Robo Advisor empowers users to dive deep into market data and financial trends, while setting the stage for an ever-expanding ecosystem of investment research features.
 
 ## Key Features
 
-### Smart Financial Assistant
+### AI Powered Research Assistant
 - Interact with an advanced AI designed to guide you through detailed financial research and comprehensive stock analysis.
 - The assistant adapts to your queries, offering insights and context to enhance your understanding of market dynamics.
 
